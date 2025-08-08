@@ -28,7 +28,7 @@ fastapi-books/
 ├── requirements.txt         # Dependencies list
 ├── README.md                # Project documentation
 
-````
+```
 
 ## 📦 Installation & Running Locally
 
