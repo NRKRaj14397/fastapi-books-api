@@ -17,8 +17,7 @@ A simple FastAPI application to manage books, including CRUD operations (Create,
 - Uvicorn (ASGI Server)
 
 ## 📂 Project Structure
-```
-
+```bash
 fastapi-books/
 │
 ├── app/
