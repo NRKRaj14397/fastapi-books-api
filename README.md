@@ -21,13 +21,12 @@ A simple FastAPI application to manage books, including CRUD operations (Create,
 fastapi-books/
 │
 ├── app/
-│   ├── main.py              # FastAPI code
-│   ├── **init**.py
+│ ├── main.py # FastAPI code
+│ ├── init.py
 │
-├── .gitignore               # Ignore unnecessary files
-├── requirements.txt         # Dependencies list
-├── README.md                # Project documentation
-
+├── .gitignore # Ignore unnecessary files
+├── requirements.txt # Dependencies list
+├── README.md # Project documentatio
 ```
 
 ## 📦 Installation & Running Locally
